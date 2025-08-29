@@ -3,11 +3,12 @@ FUNPAY_LOGIN=your_funpay_login
 FUNPAY_PASSWORD=your_funpay_password
 
 # Настройки Telegram бота
-TELEGRAM_TOKEN=your_telegram_bot_token
-TELEGRAM_ADMIN_ID=your_telegram_user_id
+TELEGRAM_TOKEN=8200815840:AAFUEvg-sNOvNctvqQ2yBrrpKBvJxlwKg5g
+TELEGRAM_ADMIN_ID=7890395437
 
 # Настройки Steam
 STEAM_API_KEY=your_steam_api_key
 
 # Настройки браузера
 BROWSER_HEADLESS=True
+
